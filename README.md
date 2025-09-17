@@ -1,2 +1,2 @@
 # IGME-110-Repo
-## Charlie's README
+This is the README public repository for Intro to Interactive Media
